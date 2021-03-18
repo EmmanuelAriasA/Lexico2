@@ -1,0 +1,13 @@
+C:\Users\nando\source\repos\CS\Lexico2\Lexico2\bin\Debug\netcoreapp3.1\Lexico2.exe
+C:\Users\nando\source\repos\CS\Lexico2\Lexico2\bin\Debug\netcoreapp3.1\Lexico2.deps.json
+C:\Users\nando\source\repos\CS\Lexico2\Lexico2\bin\Debug\netcoreapp3.1\Lexico2.runtimeconfig.json
+C:\Users\nando\source\repos\CS\Lexico2\Lexico2\bin\Debug\netcoreapp3.1\Lexico2.runtimeconfig.dev.json
+C:\Users\nando\source\repos\CS\Lexico2\Lexico2\bin\Debug\netcoreapp3.1\Lexico2.dll
+C:\Users\nando\source\repos\CS\Lexico2\Lexico2\bin\Debug\netcoreapp3.1\Lexico2.pdb
+C:\Users\nando\source\repos\CS\Lexico2\Lexico2\obj\Debug\netcoreapp3.1\Lexico2.csprojAssemblyReference.cache
+C:\Users\nando\source\repos\CS\Lexico2\Lexico2\obj\Debug\netcoreapp3.1\Lexico2.AssemblyInfoInputs.cache
+C:\Users\nando\source\repos\CS\Lexico2\Lexico2\obj\Debug\netcoreapp3.1\Lexico2.AssemblyInfo.cs
+C:\Users\nando\source\repos\CS\Lexico2\Lexico2\obj\Debug\netcoreapp3.1\Lexico2.csproj.CoreCompileInputs.cache
+C:\Users\nando\source\repos\CS\Lexico2\Lexico2\obj\Debug\netcoreapp3.1\Lexico2.dll
+C:\Users\nando\source\repos\CS\Lexico2\Lexico2\obj\Debug\netcoreapp3.1\Lexico2.pdb
+C:\Users\nando\source\repos\CS\Lexico2\Lexico2\obj\Debug\netcoreapp3.1\Lexico2.genruntimeconfig.cache
